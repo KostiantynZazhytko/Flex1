@@ -1,0 +1,74 @@
+body {
+    height: 100%;
+    background-color: #FDDE7E;
+}
+
+.colums {
+    margin-top: 100px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.colum-bronze, .colum-silver{
+    height: 442px;
+}
+
+.colum {
+    background-color: #fff;
+    border: 0px solid #EED37F;
+    flex: 0 1 360px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+}
+
+.colum-gold {
+    min-height: 500px;
+    margin: 0 30px;
+}
+
+.price {
+    font-family: Miso Bold;
+    font-size: 70px;
+    color: #02995b;   
+}
+
+.text{
+    font-family: 'Lato Light';
+    font-size: 20px;
+    
+}
+
+.cup-kind{
+    font-family: MisoRU;
+    font-size: 56px;
+}
+
+.prices {
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+
+.cup-kind1, .cup-kind3 {
+    margin-top: 21px;
+    margin-bottom: 0;
+}
+
+.price2 {
+    margin-top: 38px;
+    margin-bottom: 30px;
+}
+
+.cup-gold {
+    margin-top: 30px;
+    margin-bottom: 0; 
+}
+
+.text-gold {
+    margin-top: 18px;
+}
+
+
